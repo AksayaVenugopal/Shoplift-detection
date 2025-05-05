@@ -1,5 +1,5 @@
 # Shoplift-detection
-The Shoplifting Detection System uses YOLOv8 and DeepSORT to detect and track theft in real-time. It identifies suspicious activities, such as products being picked up and hidden, and logs potential theft incidents. 
+The Shoplifting Detection System uses YOLOv8 and DeepSORT to detect and track theft in real time. It identifies suspicious activities, such as products being picked up and hidden, and logs potential theft incidents. 
 
 Installing Dependencies
  --
